@@ -1,0 +1,1190 @@
+fileFormatVersion: 2
+guid: 8d7dbe473952a594d83e54254cf4b585
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy-Snakes_0
+    21300002: Enemy-Snakes_1
+    21300004: Enemy-Snakes_2
+    21300006: Enemy-Snakes_3
+    21300008: Enemy-Snakes_4
+    21300010: Enemy-Snakes_5
+    21300012: Enemy-Snakes_6
+    21300014: Enemy-Snakes_7
+    21300016: Enemy-Snakes_8
+    21300018: Enemy-Snakes_9
+    21300020: Enemy-Snakes_10
+    21300022: Enemy-Snakes_11
+    21300024: Enemy-Snakes_12
+    21300026: Enemy-Snakes_13
+    21300028: Enemy-Snakes_14
+    21300030: Enemy-Snakes_15
+    21300032: Enemy-Snakes_16
+    21300034: Enemy-Snakes_17
+    21300036: Enemy-Snakes_18
+    21300038: Enemy-Snakes_19
+    21300040: Enemy-Snakes_20
+    21300042: Enemy-Snakes_21
+    21300044: Enemy-Snakes_22
+    21300046: Enemy-Snakes_23
+    21300048: Enemy-Snakes_24
+    21300050: Enemy-Snakes_25
+    21300052: Enemy-Snakes_26
+    21300054: Enemy-Snakes_27
+    21300056: Enemy-Snakes_28
+    21300058: Enemy-Snakes_29
+    21300060: Enemy-Snakes_30
+    21300062: Enemy-Snakes_31
+    21300064: Enemy-Snakes_32
+    21300066: Enemy-Snakes_33
+    21300068: Enemy-Snakes_34
+    21300070: Enemy-Snakes_35
+    21300072: Enemy-Snakes_36
+    21300074: Enemy-Snakes_37
+    21300076: Enemy-Snakes_38
+    21300078: Enemy-Snakes_39
+    21300080: Enemy-Snakes_40
+    21300082: Enemy-Snakes_41
+    21300084: Enemy-Snakes_42
+    21300086: Enemy-Snakes_43
+    21300088: Enemy-Snakes_44
+    21300090: Enemy-Snakes_45
+    21300092: Enemy-Snakes_46
+    21300094: Enemy-Snakes_47
+    21300096: Enemy-Snakes_48
+    21300098: Enemy-Snakes_49
+    21300100: Enemy-Snakes_50
+    21300102: Enemy-Snakes_51
+    21300104: Enemy-Snakes_52
+    21300106: Enemy-Snakes_53
+    21300108: Enemy-Snakes_54
+    21300110: Enemy-Snakes_55
+    21300112: Enemy-Snakes_56
+    21300114: Enemy-Snakes_57
+    21300116: Enemy-Snakes_58
+    21300118: Enemy-Snakes_59
+    21300120: Enemy-Snakes_60
+    21300122: Enemy-Snakes_61
+    21300124: Enemy-Snakes_62
+    21300126: Enemy-Snakes_63
+    21300128: Enemy-Snakes_64
+    21300130: Enemy-Snakes_65
+    21300132: Enemy-Snakes_66
+    21300134: Enemy-Snakes_67
+    21300136: Enemy-Snakes_68
+    21300138: Enemy-Snakes_69
+    21300140: Enemy-Snakes_70
+    21300142: Enemy-Snakes_71
+    21300144: Enemy-Snakes_72
+    21300146: Enemy-Snakes_73
+    21300148: Enemy-Snakes_74
+    21300150: Enemy-Snakes_75
+    21300152: Enemy-Snakes_76
+    21300154: Enemy-Snakes_77
+    21300156: Enemy-Snakes_78
+    21300158: Enemy-Snakes_79
+    21300160: Enemy-Snakes_80
+    21300162: Enemy-Snakes_81
+    21300164: Enemy-Snakes_82
+    21300166: Enemy-Snakes_83
+    21300168: Enemy-Snakes_84
+    21300170: Enemy-Snakes_85
+    21300172: Enemy-Snakes_86
+    21300174: Enemy-Snakes_87
+    21300176: Enemy-Snakes_88
+    21300178: Enemy-Snakes_89
+    21300180: Enemy-Snakes_90
+    21300182: Enemy-Snakes_91
+    21300184: Enemy-Snakes_92
+    21300186: Enemy-Snakes_93
+    21300188: Enemy-Snakes_94
+    21300190: Enemy-Snakes_95
+    21300192: Enemy-Snakes_96
+    21300194: Enemy-Snakes_97
+    21300196: Enemy-Snakes_98
+    21300198: Enemy-Snakes_99
+    21300200: Enemy-Snakes_100
+    21300202: Enemy-Snakes_101
+    21300204: Enemy-Snakes_102
+    21300206: Enemy-Snakes_103
+    21300208: Enemy-Snakes_104
+    21300210: Enemy-Snakes_105
+    21300212: Enemy-Snakes_106
+    21300214: Enemy-Snakes_107
+    21300216: Enemy-Snakes_108
+    21300218: Enemy-Snakes_109
+    21300220: Enemy-Snakes_110
+    21300222: Enemy-Snakes_111
+    21300224: Enemy-Snakes_112
+    21300226: Enemy-Snakes_113
+    21300228: Enemy-Snakes_114
+    21300230: Enemy-Snakes_115
+    21300232: Enemy-Snakes_116
+    21300234: Enemy-Snakes_117
+    21300236: Enemy-Snakes_118
+    21300238: Enemy-Snakes_119
+    21300240: Enemy-Snakes_120
+    21300242: Enemy-Snakes_121
+    21300244: Enemy-Snakes_122
+    21300246: Enemy-Snakes_123
+    21300248: Enemy-Snakes_124
+    21300250: Enemy-Snakes_125
+    21300252: Enemy-Snakes_126
+    21300254: Enemy-Snakes_127
+    21300256: Enemy-Snakes_128
+    21300258: Enemy-Snakes_129
+    21300260: Enemy-Snakes_130
+    21300262: Enemy-Snakes_131
+    21300264: Enemy-Snakes_132
+    21300266: Enemy-Snakes_133
+    21300268: Enemy-Snakes_134
+    21300270: Enemy-Snakes_135
+    21300272: Enemy-Snakes_136
+    21300274: Enemy-Snakes_137
+    21300276: Enemy-Snakes_138
+    21300278: Enemy-Snakes_139
+    21300280: Enemy-Snakes_140
+    21300282: Enemy-Snakes_141
+    21300284: Enemy-Snakes_142
+    21300286: Enemy-Snakes_143
+    21300288: Enemy-Snakes_144
+    21300290: Enemy-Snakes_145
+    21300292: Enemy-Snakes_146
+    21300294: Enemy-Snakes_147
+    21300296: Enemy-Snakes_148
+    21300298: Enemy-Snakes_149
+    21300300: Enemy-Snakes_150
+    21300302: Enemy-Snakes_151
+    21300304: Enemy-Snakes_152
+    21300306: Enemy-Snakes_153
+    21300308: Enemy-Snakes_154
+    21300310: Enemy-Snakes_155
+    21300312: Enemy-Snakes_156
+    21300314: Enemy-Snakes_157
+    21300316: Enemy-Snakes_158
+    21300318: Enemy-Snakes_159
+    21300320: Enemy-Snakes_160
+    21300322: Enemy-Snakes_161
+    21300324: Enemy-Snakes_162
+    21300326: Enemy-Snakes_163
+    21300328: Enemy-Snakes_164
+    21300330: Enemy-Snakes_165
+    21300332: Enemy-Snakes_166
+    21300334: Enemy-Snakes_167
+    21300336: Enemy-Snakes_168
+    21300338: Enemy-Snakes_169
+    21300340: Enemy-Snakes_170
+    21300342: Enemy-Snakes_171
+    21300344: Enemy-Snakes_172
+    21300346: Enemy-Snakes_173
+    21300348: Enemy-Snakes_174
+    21300350: Enemy-Snakes_175
+    21300352: Enemy-Snakes_176
+    21300354: Enemy-Snakes_177
+    21300356: Enemy-Snakes_178
+    21300358: Enemy-Snakes_179
+    21300360: Enemy-Snakes_180
+    21300362: Enemy-Snakes_181
+    21300364: Enemy-Snakes_182
+    21300366: Enemy-Snakes_183
+    21300368: Enemy-Snakes_184
+    21300370: Enemy-Snakes_185
+    21300372: Enemy-Snakes_186
+    21300374: Enemy-Snakes_187
+    21300376: Enemy-Snakes_188
+    21300378: Enemy-Snakes_189
+    21300380: Enemy-Snakes_190
+    21300382: Enemy-Snakes_191
+    21300384: Enemy-Snakes_192
+    21300386: Enemy-Snakes_193
+    21300388: Enemy-Snakes_194
+    21300390: Enemy-Snakes_195
+    21300392: Enemy-Snakes_196
+    21300394: Enemy-Snakes_197
+    21300396: Enemy-Snakes_198
+    21300398: Enemy-Snakes_199
+    21300400: Enemy-Snakes_200
+    21300402: Enemy-Snakes_201
+    21300404: Enemy-Snakes_202
+    21300406: Enemy-Snakes_203
+    21300408: Enemy-Snakes_204
+    21300410: Enemy-Snakes_205
+    21300412: Enemy-Snakes_206
+    21300414: Enemy-Snakes_207
+    21300416: Enemy-Snakes_208
+    21300418: Enemy-Snakes_209
+    21300420: Enemy-Snakes_210
+    21300422: Enemy-Snakes_211
+    21300424: Enemy-Snakes_212
+    21300426: Enemy-Snakes_213
+    21300428: Enemy-Snakes_214
+    21300430: Enemy-Snakes_215
+    21300432: Enemy-Snakes_216
+    21300434: Enemy-Snakes_217
+    21300436: Enemy-Snakes_218
+    21300438: Enemy-Snakes_219
+    21300440: Enemy-Snakes_220
+    21300442: Enemy-Snakes_221
+    21300444: Enemy-Snakes_222
+    21300446: Enemy-Snakes_223
+    21300448: Enemy-Snakes_224
+    21300450: Enemy-Snakes_225
+    21300452: Enemy-Snakes_226
+    21300454: Enemy-Snakes_227
+    21300456: Enemy-Snakes_228
+    21300458: Enemy-Snakes_229
+    21300460: Enemy-Snakes_230
+    21300462: Enemy-Snakes_231
+    21300464: Enemy-Snakes_232
+    21300466: Enemy-Snakes_233
+    21300468: Enemy-Snakes_234
+    21300470: Enemy-Snakes_235
+    21300472: Enemy-Snakes_236
+    21300474: Enemy-Snakes_237
+    21300476: Enemy-Snakes_238
+    21300478: Enemy-Snakes_239
+    21300480: Enemy-Snakes_240
+    21300482: Enemy-Snakes_241
+    21300484: Enemy-Snakes_242
+    21300486: Enemy-Snakes_243
+    21300488: Enemy-Snakes_244
+    21300490: Enemy-Snakes_245
+    21300492: Enemy-Snakes_246
+    21300494: Enemy-Snakes_247
+    21300496: Enemy-Snakes_248
+    21300498: Enemy-Snakes_249
+    21300500: Enemy-Snakes_250
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy-Snakes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d52dea600e0642b790d991bb40322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bd296df32c3b4f9ce2784d6eb4f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89751e6d15cf4b049b106646988dd77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae759ae829fdba4d9f3191b5d12efd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c88004c2f1a142a4378027466dcce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b929d229a650ae40a1aaa9ff5ba2a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc3cc1b03922647b6cb77c27f82af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a4c221b2a6d94dbb53b01e0eeb8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0566d954d358641bf481e6c047c3df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5738d1bdaced8947ba34f8fa2368a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 268
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cb06a687f51e47835dd6637563491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e6d754c2f31ad4ebc3cea694b5167e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb8ef9d7fa19a4eb97b003d3d9f69e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f279f1b68963494c80a39b6fd608bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d020ff3685224b99c2e828783a989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c063071882a40c42883cb73f5928fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb74c1bede5fb474faac271d5aa32f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 188
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b18a355f0abd74385e81810594f688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218116a20e7228b489e013d1a82bb642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3f8dfc8d3513448adf50da04de6cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ecb82a176318a4283ab8fcdd36b7c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53040dbe5b254c24c8518f202f6b7937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce46ee32781cc24eb5b0da4ea9b6aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ff58f7913dbe44b0f1c6553fdb353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0204e1a1e8644d4bac38a1ad93008fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52063e13e9c5f404c896cca63a5bd054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a79df6e1b6da478f6f21e685d7dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a413c5221eec4282af0f4f2356f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f472309b3587944da36025699cc8f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 108
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628645e8aa3be942818c04b8b110088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcb8151239f6646abb9b7d574688a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be447fb7e5c6143b7ee9dbc7ae4218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57088cb64aa8cd4592931277bfe59cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80b63ce45e4e24c8bd094ea72f5c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b90a73e3b5af46ba3046454960ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ae39164cd16140848781161c6ad17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07f31e71145da4ab30d7f5c35299ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759153d516ecee43a137796ad8e9cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bae1d0c5ae09174989144f3799bada2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3ec29fdaa4a54d9993175c07ac5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27902d7a7ec44b4e9c5deba32390893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy-Snakes_41
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 28
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15572994f31e04242a087de6d1fdf36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 729877f2bb7714846b770c9ad8214f98
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
